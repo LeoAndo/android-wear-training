@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- [リスト4.10] 音声入力時の候補 -->
+<resources>
+    <string-array name="reply_choices">
+        <item>旅行</item>
+        <item>カラオケ</item>
+        <item>食事</item>
+    </string-array>
+</resources>
